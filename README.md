@@ -1,15 +1,16 @@
 # akull73012025
 first time githubbing
-# Heading 1
-## **Heading 2 in bold**
+# Hello World!
+## **This is my first time githubbing**
 > *I am practing blockquotes maybe it is italicized*
 >> Now I am making a nested blockquote
-1. making a list
-2. making a list part 2
-     1. making a sub heading part 1
-     2. making a sub heading part 2
+1. isn't that cool
+2. what about this
+     1. or this
+     2. subheading!
 ------------------------------------------------------
 [Google](https://www.google.com/)
+# That google
 \*demo italicizing\*
 git config --global user.name "Ashlyn Kullberg"
 git config --global user.email ashlynkullberg@gmail.com
