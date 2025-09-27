@@ -10,8 +10,10 @@ first time githubbing
      2. subheading!
 ------------------------------------------------------
 [Google](https://www.google.com/)
-# That google
+# Thats google... look it up
 \*demo italicizing\*
+----------------------------------------------------
+![Alt text] (https://cdn.wallpapersafari.com/54/18/bxRZmJ.jpg)
 git config --global user.name "Ashlyn Kullberg"
 git config --global user.email ashlynkullberg@gmail.com
 ----------------------------------------------------
