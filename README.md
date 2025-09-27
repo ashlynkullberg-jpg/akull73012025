@@ -13,6 +13,7 @@ first time githubbing
 \*demo italicizing\*
 git config --global user.name "Ashlyn Kullberg"
 git config --global user.email ashlynkullberg@gmail.com
+----------------------------------------------------
 git config --global init.defaultBranch main
 git config --global core.editor "nano"
 git config --list
